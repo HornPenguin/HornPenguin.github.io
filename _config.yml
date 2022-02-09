@@ -7,11 +7,23 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 
+
+company: HornPenguin
+  url: https://www.hornpenguin.com
+  wiki: https://wiki.hornpenguin.com
+  instagram: https://www.instagram.com/hornpenguin/
+  github:
+    repo: https://github.com/HornPenguin
+
 # About/contact
 author:
   name:              Kim, Hyun Seong
   url:               https://hyunseong-kim.github.io/
   email:             hyunseong@hornpenguin.com
+# Related sites
+
+
+
 
 # Gems
 plugins:
