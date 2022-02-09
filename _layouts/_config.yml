@@ -1,0 +1,33 @@
+# Setup
+title:               HornPenguin 
+tagline:             'Blog'
+description:         'Publiser Blog of <a href="https://www.hornpenguin.com" target="_blank">HornPenguin</a>.'
+url:                 https://blog.hornpenguin.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+company:
+  name: HornPenguin
+  url: https://www.hornpenguin.com
+
+author:
+  name:              Kim, Hyun Seong
+  url:               https://hyunseong-kim.github.io/
+  email:             hyunseong@hornpenguin.com
+
+# Related sites: Homepage, Wiki, Instagram, Github repository
+
+wiki: https://wiki.hornpenguin.com
+instagram: https://www.instagram.com/hornpenguin/?hl=ko
+github:
+  repo: 
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y

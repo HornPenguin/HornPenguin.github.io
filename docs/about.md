@@ -3,27 +3,15 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# HornPenguin 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+자유로운 문서들을 위한 출판사 HornPenguin 입니다.
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+이 블로그는 [Jekyll](http://jekyllrb.com)과 [Lanyon](https://lanyon.getpoole.com/)테마를 사용합니다.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+|홈페이지|위키|인스타|깃허브 저장소|
+|:--:|:--:|:--:|:--:|
+|![Homepage](./resource/img/Homepage%20Icon.png)|![Wiki]((./../resource/img/Wiki%20Icon.png))|![Instagram](./resource/img/Instagram%20Icon.png)|![Github repository](./resource/img/Github_lcon.png)|
 
-## Setup
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!

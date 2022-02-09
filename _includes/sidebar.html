@@ -25,14 +25,16 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+    <a class="sidebar-nav-item" href="{{site.company.url}}">출판사 홈페이지</a>
+    <a class="sidebar-nav-item" href="{{site.wiki}}">위키</a>
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}">Github 저장소</a>
+    <a class="sidebar-nav-item" href="https://www.instagram.com/hornpenguin/?hl=ko">인스타</a>
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      &copy; {{ site.time | date: '%Y' }}. {{site.company.name}} all rights reserved.
     </p>
   </div>
 </div>
