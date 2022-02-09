@@ -1,3 +1,13 @@
+# HornPenguin 
+
+자유로운 문서들을 위한 출판사 HornPenguin 입니다.
+
+
+|홈페이지|위키|인스타|깃허브 저장소|
+|:--:|:--:|:--:|:--:|
+|![Homepage](./resource/img/Homepage%20Icon.png)|![Wiki]((./../resource/img/Wiki%20Icon.png))|![Instagram](./resource/img/Instagram%20Icon.png)|![Github repository](./resource/img/Github_lcon.png)|
+
+
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
@@ -8,14 +18,19 @@ Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content 
 
 ## Contents
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+- [HornPenguin](#hornpenguin)
+- [Lanyon](#lanyon)
+  - [Contents](#contents)
+  - [Usage](#usage)
+  - [Options](#options)
+    - [Sidebar menu](#sidebar-menu)
+    - [Themes](#themes)
+    - [Reverse layout](#reverse-layout)
+    - [Sidebar overlay instead of push](#sidebar-overlay-instead-of-push)
+    - [Sidebar open on page load](#sidebar-open-on-page-load)
+  - [Development](#development)
+  - [Author](#author)
+  - [License](#license)
 
 
 ## Usage
