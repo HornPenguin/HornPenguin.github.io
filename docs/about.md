@@ -12,6 +12,6 @@ title: About
 
 |홈페이지|위키|인스타|깃허브 저장소|
 |:--:|:--:|:--:|:--:|
-|![Homepage](./resource/img/Homepage%20Icon.png)|![Wiki]((./../resource/img/Wiki%20Icon.png))|![Instagram](./resource/img/Instagram%20Icon.png)|![Github repository](./resource/img/Github_lcon.png)|
+|![Homepage](./resource/img/Homepage%20Icon.png)|![Wiki]((./resource/img/Wiki%20Icon.png))|![Instagram](./resource/img/Instagram%20Icon.png)|![Github repository](./resource/img/Github_lcon.png)|
 
 
