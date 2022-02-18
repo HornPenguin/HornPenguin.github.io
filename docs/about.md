@@ -5,7 +5,7 @@ title: About
 
 # HornPenguin 
 
-자유로운 문서들을 위한 출판사 HornPenguin 입니다.
+자유로운 문서들을 위한 출판사 [HornPenguin](https://www.hornpenguin.com)의 블로그입니다.
 
 
 이 블로그는 [Jekyll](http://jekyllrb.com)과 [Lanyon](https://lanyon.getpoole.com/)테마를 사용합니다.
