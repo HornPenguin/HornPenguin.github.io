@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content
+tage: 서적
 ---
 
 
